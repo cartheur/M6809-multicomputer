@@ -10,6 +10,6 @@ This repository is for sharing the hardware and software that I have used for th
 
 ### More on CamelForth
 
-[Camelforth](https://launchpad.net/camelforth)
-[Casmelforth website](http://www.camelforth.com/)
-[Papers on this subject](http://www.bradrodriguez.com/papers/index.html)
+* [Camelforth](https://launchpad.net/camelforth)
+* [Casmelforth website](http://www.camelforth.com/)
+* [Papers on this subject](http://www.bradrodriguez.com/papers/index.html)
