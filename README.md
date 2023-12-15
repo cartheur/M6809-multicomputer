@@ -23,3 +23,7 @@ The sales states that Camelforth runs on real hardware using a hardware bank-swi
 * [Camelforth](https://launchpad.net/camelforth)
 * [Casmelforth website](http://www.camelforth.com/)
 * [Papers on this subject](http://www.bradrodriguez.com/papers/index.html)
+
+### What is a stack machine?
+
+Rather than a length explanation, check [here](https://en.wikipedia.org/wiki/Stack_machine).
