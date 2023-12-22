@@ -1,6 +1,6 @@
 # A compound 6x09 MultiComputer
 
-A project to build a system that uses my concept of _novel metal_ to architect a new kind of computer system. This repo serves as a single point-of-reference containing hardware (in PCB form) and software. Multiplicity is the theme.
+A project to build a system that uses my concept of _novel metal_ to architect _a new kind_ of computer system. This repo serves as a single point-of-reference containing hardware (in PCB form) and software. Multiplicity is the theme.
 
 ### A bit of history
 
