@@ -5,3 +5,5 @@ Forth is a very straightforward and flexible procedural language. As it has a le
 * [Main forth site](http://www.forth.org) (2003)
 * [Len's](http://www.forth.org/svfig/Len/Tutorils.htm) Forth tutorial
 * [Open firmware](https://www.openfirmware.org/1275/home.html#OFdocumentation) (2005)
+* [ColourForth](https://colorforth.github.io/chips.html)
+* [NC4016](https://users.ece.cmu.edu/~koopman/stack_computers/sec4_4.html?ref=codebldr)
