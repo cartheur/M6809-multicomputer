@@ -12,6 +12,10 @@ Thinking quite hard on this idea - I had done soldering in the past years making
 
  Years later when I started University, I had this CPU in-mind when I sketched-out design ideas into a notebook for what formally began my idea of _novel metal_. I had been reading about the early years of Cybernetics and the idea of a homeostatic machine - the basic equivalent to what (synthetic) life would be equated to in hardware. Around 2006, I discovered Camelforth latently on the Internet and found some sources to port an [exec09 emulator](https://github.com/cartheur/M6809-exec). Camelforth seemed interesting as I could construct a kernel around a conjoined 8-bit foundation with various novel ways of establishing an OS.
 
+ ### What is the Forth language?
+
+ Read about it [here](/forth-tutorials/ReadMe.md).
+
  ### Why Camelforth
 
  I knew about the [Forth](https://en.wikipedia.org/wiki/Forth_(programming_language)) langauge from a class where the instructor noted the power of focusing on the concept of the _word_ in computing as a basic unit of computational syntax. So, in essence, a complex functional system could be represented as a heirarchy of words, as distinct modules communicating implicitly via a stack mechanism. The most profound take-away, as noted on the Wikipedia page is: Forth has been called a meta-application language: a language that can be used to create [problem-oriented](https://en.wikipedia.org/wiki/Domain-specific_language) languages. This is how I envision a contigous syntactical novel metal system that has an internal computational monologue with constructs not unlike an English language.
