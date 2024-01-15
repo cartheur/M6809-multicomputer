@@ -25,7 +25,7 @@ Camelforth runs on real hardware using a hardware bank-switching unit on a Multi
 ### CamelForth Links
 
 * [Camelforth](https://launchpad.net/camelforth)
-* [Casmelforth website](http://www.camelforth.com/)
+* [Camelforth website](http://www.camelforth.com/)
 * [Papers on this subject](http://www.bradrodriguez.com/papers/index.html)
 
 ### What is a stack machine?
