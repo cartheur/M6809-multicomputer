@@ -14,7 +14,7 @@ Years later when I started University, I had this CPU in-mind when I sketched-ou
 
 Having quite a bit of experience with implementing machine learning and having read about the early ideas of artificial intelligence, I have the contention that what the tech corporations are selling as AI is exactly _not_ it. AI can only be derived from a systems engineering perspective. As I can only contribute so much more hot air to the debate, this project will be the place where we find out the proof in the pudding.
 
-_If it ain't here it ain't anywhere_, I here proclaim.
+_If it ain't here it ain't anywhere_, I hereby proclaim.
 
 ----
 
