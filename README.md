@@ -12,6 +12,10 @@ Thinking quite hard on this idea - I had done soldering in the past years making
 
 Years later when I started University, I had this CPU in-mind when I sketched-out design ideas into a notebook for what formally began my idea of _novel metal_. I had been reading about the early years of Cybernetics and the idea of a homeostatic machine - the basic equivalent to what (synthetic) life would be equated to in hardware. Around 2006, I discovered Camelforth latently on the Internet and found some sources to port an [exec09 emulator](https://github.com/cartheur/M6809-exec). Camelforth seemed interesting as I could construct a kernel around a conjoined 8-bit foundation with various novel ways of establishing an OS.
 
+Having quite a bit of experience with implementing machine learning and having read about the early ideas of artificial intelligence, I have the contention that what the tech corporations are selling as AI is exactly _not_ it. AI can only be derived from a systems engineering perspective. As I can only contribute so much more hot air to the debate, this project will be the place where we find out the proof in the pudding.
+
+_If it ain't here it ain't anywhere_, I here proclaim.
+
 ### What is the Forth language?
 
 Read about it [here](/forth-tutorials/ReadMe.md).
