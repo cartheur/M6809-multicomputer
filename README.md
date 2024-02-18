@@ -2,6 +2,8 @@
 
 A project to build a system that uses my concept of _novel metal_ to architect _a new kind_ of computer system. This repo serves as a single point-of-reference containing hardware (in PCB form) and software. Multiplicity is the theme.
 
+Renewed.
+
 ### A bit of history
 
 ![TRS-80-Color](/images/trs-80-color.jpg)
